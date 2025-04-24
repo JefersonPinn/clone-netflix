@@ -10,7 +10,7 @@ const options = {
   },
   headers: {
     accept: 'application/json',
-    Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwNWYwYTRmYjE5M2EzZTE2M2UxNzJhMDEzMzQ4ZTYyMSIsIm5iZiI6MTY2MzE5ODc5MS41MzEwMDAxLCJzdWIiOiI2MzIyNjY0NzUzMmFjYjAwN2FiNWM3MDMiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.Untk-4mAfoSKWLJijvQH3owb6rAJ3QznkW_qetq7MB8'
+    Authorization: ''
   }
 };
 
