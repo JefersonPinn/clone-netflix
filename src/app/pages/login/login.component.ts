@@ -46,7 +46,7 @@ export class LoginComponent implements OnInit {
   // Inicializa o botão do Google
   private initializeGoogleLogin(): void {
     google.accounts.id.initialize({
-      client_id: '491517433521-lj71acm8onl7n0fmpn4577qnta2khnf3.apps.googleusercontent.com',
+      client_id: '',
       callback: (resp: any) => this.handleLogin(resp)
     });
 
